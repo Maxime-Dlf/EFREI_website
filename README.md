@@ -54,7 +54,3 @@ Ce projet est purement statique et ne nécessite aucune dépendance serveur comp
 ├── contact.html              # Page de contact
 └── ...                       # Autres pages du site
 ```
-
-## 👨‍💻 Développeur
-
-Développé dans un contexte académique, puis modernisé et optimisé pour atteindre une qualité professionnelle de production.
